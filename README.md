@@ -1,6 +1,6 @@
 # Package cmdtest
 
-Package cmdtest helps to test competitive programming solutions.
+Package cmdtest helps to test commands.
 
 ```go
 package main
